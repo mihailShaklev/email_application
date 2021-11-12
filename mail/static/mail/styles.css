@@ -1,0 +1,21 @@
+textarea {
+    min-height: 400px;
+}
+
+.element {
+    display:inline;
+    margin-left:10px;
+}
+
+.wrapper {
+    padding:10px;
+    border: 1px solid gray;
+}
+
+#message-header {
+    display:block;
+}
+
+span {
+    font-weight:bold;
+}
