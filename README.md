@@ -1,4 +1,4 @@
-# Email application
+# 📧 Email application
 Email application\
 \
 \
